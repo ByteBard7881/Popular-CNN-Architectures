@@ -21,7 +21,7 @@ _Code/
   ├── ResNet/
   │   ├── Research Paper.pdf
   │   ├── train.ipynb
-  ├── VDD-19/
+  ├── VGG-19/
   │   ├── Research Paper.pdf
   │   ├── train.ipynb
 _data/
@@ -40,7 +40,7 @@ Popular CNN Architectures.pdf
 - **GoogleNet (Inception)** (2014)
 - **LeNet-5** (1998)
 - **ResNet** (2015)
-- **VDD-19** (Custom Architecture)
+- **VGG-19** (Custom Architecture)
 
 Each folder contains:  
 ✅ A research paper explaining the architecture  
