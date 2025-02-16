@@ -40,7 +40,7 @@ Popular CNN Architectures.pdf
 - **GoogleNet (Inception)** (2014)
 - **LeNet-5** (1998)
 - **ResNet** (2015)
-- **VGG-19** (Custom Architecture)
+- **VGG-19** (2014)
 
 Each folder contains:  
 ✅ A research paper explaining the architecture  
