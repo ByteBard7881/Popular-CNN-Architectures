@@ -24,12 +24,12 @@ _Code/
   ├── VGG-19/
   │   ├── Research Paper.pdf
   │   ├── train.ipynb
-_data/
-  ├── part1.rar
-  ├── part2.rar
-  ├── part3.rar
-  ├── part4.rar
-  ├── part5.rar
+  ├──_data/
+      ├── part1.rar
+      ├── part2.rar
+      ├── part3.rar
+      ├── part4.rar
+      ├── part5.rar
 Popular CNN Architectures.pdf
 ```
 
